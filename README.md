@@ -1,6 +1,6 @@
-Setup
+Setup<br/>;
 
-git clone git@github.com:merradi/AngularJS-2-Hello-World-with-TypeScript.git
+git clone git@github.com:merradi/AngularJS-2-Hello-World-with-TypeScript.git<br/>;
 		  
 
 npm init -y
@@ -11,7 +11,7 @@ npm i live-server
 npm install es6-shim --save
 
 
-Package installés:
+Package installÃ©s:
 
 angular2
 systemjs module system
