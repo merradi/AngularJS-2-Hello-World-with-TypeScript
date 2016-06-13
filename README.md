@@ -1,24 +1,24 @@
-Setup<br/>;
+<p>Setup</p><br/>
 
-git clone git@github.com:merradi/AngularJS-2-Hello-World-with-TypeScript.git<br/>;
+git clone git@github.com:merradi/AngularJS-2-Hello-World-with-TypeScript.git<br/>
 		  
 
-npm init -y
-npm i typescript
-npm i angular2
-npm i systemjs
-npm i live-server 
-npm install es6-shim --save
+npm init -y<br/>
+npm i typescript<br/>
+npm i angular2<br/>
+npm i systemjs<br/>
+npm i live-server<br/>
+npm install es6-shim --save<br/>
 
 
-Package installés:
+Package installés:<br/>
 
-angular2
-systemjs module system
-typescript typescipt compiler
-live-server hot reload
-es6-shim (opti) Angular 2 requires ES6 support
-package.json
+angular2<br/>
+systemjs module system<br/>
+typescript typescipt compiler<br/>
+live-server hot reload<br/>
+es6-shim (opti) Angular 2 requires ES6 support<br/>
+package.json<br/>
 
 "scripts": {
     "tsc": "tsc -p src -w",
