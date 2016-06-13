@@ -1,0 +1,17 @@
+{
+  "name": "angular2-helloworld",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "tsc": "tsc -p src -w",
+	"start": "live-server --open=src"
+  },
+  "devDependencies": {
+   "live-server": "^0.8.2",
+    "systemjs": "^0.19.6"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+ 
+}
