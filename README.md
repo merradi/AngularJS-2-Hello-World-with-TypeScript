@@ -1,4 +1,4 @@
-<p>Setup</p><br/>
+<p><h1>Setup</h1></p><br/>
 
 git clone git@github.com:merradi/AngularJS-2-Hello-World-with-TypeScript.git<br/>
 		  
@@ -47,7 +47,7 @@ src/index.html<br/>
   </body><br/>
 </html><br/>
 
-src/app/app.ts<br/>
+<p>src/app/app.ts</p><br/>
 
 import {bootstrap, Component} from 'angular2/angular2';<br/>
 
